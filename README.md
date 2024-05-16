@@ -1,4 +1,4 @@
-# Edyoda-project1liabary-manegement-system
+project1liabary-manegement-system
 Library Management System
 This service is a library management system which supports following actions
 
